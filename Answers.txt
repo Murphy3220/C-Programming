@@ -1,0 +1,10 @@
+55 67 458 23 81 33 782 375 528 405 324 950 46 14 864 551 38 167 518 630 
+The average of all integers is 345.45
+The average of the first 12 integers is 340.083
+The sum of every third integer is 3000
+The smallest value is 14
+The largest value is 950
+
+The interger closest to 200 is 167
+The average of the integers in the first two lines is 266.889
+The sum of integers that is not greater or equal to 1000 is 717

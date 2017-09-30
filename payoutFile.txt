@@ -1,0 +1,13 @@
+The input file contains the following data:
+X 19312.34 34
+Y 26825.12 56
+Z 28562.4 80
+The average number of emplyees for all three categories is: 56
+
+The average pay for employees in each category is:
+Category X = $568.01
+Category Y = $479.02
+Category Z = $357.03
+The average pay for all employees is:
+$439.41
+
